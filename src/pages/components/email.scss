@@ -1,0 +1,29 @@
+.email{
+  background-color: #ECE8D3;
+  border: none;
+  width: 400px;
+  height: 60px;
+  padding: 0;
+  font-size: 20px;
+  outline:  none;
+  margin-right: 10px;
+}
+.box{
+  margin-top: 10px;
+  width: 400px;
+  height: 60px;
+  position: relative;
+  display: flex;
+  border: solid .3px;
+  padding-left: 10px;
+
+}
+.visible-text{
+  position: absolute;
+  top: 19px;
+  font-size: 20px;
+  left: 10px;
+}
+.hidden-text{
+  display: none;
+}
